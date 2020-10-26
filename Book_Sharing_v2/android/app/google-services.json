@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "762945149664",
+    "firebase_url": "https://book-sharing-app-e4028.firebaseio.com",
+    "project_id": "book-sharing-app-e4028",
+    "storage_bucket": "book-sharing-app-e4028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762945149664:android:aec7bb69948baaceaf4e85",
+        "android_client_info": {
+          "package_name": "com.sutikshverma.book_sharing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762945149664-pfc55cjl3f7hm6ait4gankthsrreungb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBndeZlbs9sMUYQPgP4S_-4N7fOsh2Oa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762945149664-pfc55cjl3f7hm6ait4gankthsrreungb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
